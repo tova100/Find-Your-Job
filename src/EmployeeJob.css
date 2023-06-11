@@ -1,0 +1,95 @@
+.Job form {
+  display: flex;
+  flex-direction: column;
+}
+
+.Job form h2 {
+  align-self: flex-start;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.Job .radio {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.Job .radio p {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.Job .radio input[type="radio"] {
+  margin-right: 5px;
+}
+
+.Job .checkbox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.Job .checkbox p {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.Job .travel-time {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+
+}
+
+
+.Job .travel-time p {
+  margin-right: 10px;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.Job .travel-time input {
+  margin-left: 10px;
+  flex-grow: 1;
+}
+
+.Job .salary {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 80%;
+}
+
+.Job .salary p {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.Job .ant-input-number {
+  flex-grow: 1;
+}
+
+.Job .ant-checkbox-wrapper {
+  margin-right: 10px;
+}
+.Job .travel p{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+.Job .travel {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
