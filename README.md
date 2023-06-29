@@ -1,4 +1,4 @@
-# Finf Your Job
+# Find Your Job
 ### Description of the project implementation
 This is a project: client-side-React and server-side- C#.Net DB-SQLServer
 CV analysis and presentation of relevant jobs adapted to the user's CV analysis -
