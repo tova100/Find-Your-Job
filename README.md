@@ -1,6 +1,24 @@
 # Find Your Job
 ### Description of the project implementation
-This is a project: client-side-React and server-side- C#.Net DB-SQLServer
+   ## * Client-side React Application:
+        The client-side application will be built using React, a popular JavaScript library for building user interfaces.
+        The application will provide a user interface for users to upload their CV and view relevant job recommendations.
+        The CV uploaded by the user will be sent to the server-side application for analysis.
+
+    ##* Server-side C# .Net Application:
+        The server-side application will be built using C# .Net, a framework for building web applications.
+        The application will handle the business logic and data processing for analyzing the CV and generating job recommendations.
+        It will utilize Entity Framework, an Object-Relational Mapping (ORM) framework, to interact with the SQL Server database.
+
+   ## * CV Analysis:
+        The server-side application will employ a smart algorithm for text analysis to extract relevant information from the user's CV.
+        The algorithm may use techniques such as natural language processing (NLP) and machine learning to extract key information like skills, experience, education, and qualifications from the CV.
+        The extracted information will be used to determine the user's suitability for various job positions.
+
+   ## * SQL Server Database:
+        The project will use a SQL Server database to store user data, job listings, and relevant information for analysis.
+        The database will be designed to efficiently store and retrieve CV data, job information, and user profiles.
+        The server-side application will utilize Entity Framework to interact with the database, performing queries and updates as necessary.
 CV analysis and presentation of relevant jobs adapted to the user's CV analysis -
 ### Goal of project
 The goal of the project is to assist users in finding relevant job opportunities based on the precise data extracted from their uploaded CVs. The advanced algorithm analyzes the CVs and extracts information such as years of experience for each language, educational background, proficiency in specific technologies, and military service experience. After analyzing the CV data, the system presents personalized job listings that match the user's profile analysis.
