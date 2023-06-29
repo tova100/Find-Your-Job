@@ -1,18 +1,11 @@
 # Finf Your Job
 ### Description of the project implementation
-This is a project: client-side-React and server-side- C#.Net  
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This is a project: client-side-React and server-side- C#.Net DB-SQLServer
+CV analysis and presentation of relevant jobs adapted to the user's CV analysis -
+### Goal of project
+Its purpose is to help the user to apply for the relevant jobs for the exact data
+The sources of life are extracted, and they are on the side of the employer to observe the percentage of the candidate's suitability for a position
+specifically.
+### Properties
+* I developed a smart algorithm for text analysis.
+* Using Entity Framework.
