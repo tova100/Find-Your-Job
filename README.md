@@ -1,4 +1,4 @@
-## Find Your Job
+#### Find Your Job
 ## Description of the project implementation
     * Client-side React Application:
         The client-side application will be built using React, a popular JavaScript library for building user interfaces.
