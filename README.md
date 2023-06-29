@@ -9,3 +9,4 @@ specifically.
 ### Properties
 * I developed a smart algorithm for text analysis.
 * Using Entity Framework.
+* Technologies:C#, React, JavaScript, SQL Server
