@@ -1,5 +1,5 @@
 ## Find Your Job
-### Description of the project implementation
+## Description of the project implementation
     * Client-side React Application:
         The client-side application will be built using React, a popular JavaScript library for building user interfaces.
         The application will provide a user interface for users to upload their CV and view relevant job recommendations.
@@ -23,7 +23,7 @@
 Overall, the project aims to provide a seamless user experience by analyzing CV data, applying a smart algorithm for text analysis, 
 and presenting relevant job recommendations to the user.
 The combination of client-side React and server-side C# .Net technologies, along with SQL Server for data storage, forms the foundation for this implementation.
-### Goal of project
+## Goal of project
 The goal of the project is to assist users in finding relevant job opportunities based on the precise data extracted from their uploaded CVs.
 The advanced algorithm analyzes the CVs and extracts information such as years of experience for each language, 
 educational background, proficiency in specific technologies, and military service experience. 
@@ -37,7 +37,7 @@ This allows employers to assess the percentage of suitability for each candidate
 In summary, the main objective of the project is to provide users with a seamless and advanced user experience by analyzing CV data,
 facilitating the search for relevant job positions, and presenting personalized recommendations.
 The combination of client-side technologies such as React, server-side technologies such as C# .Net, and the SQL Server database form the foundation for implementing this project.
-### Properties
+## Properties
 * I developed a smart algorithm for text analysis.
 * Using Entity Framework.
 * Technologies:C#, React, JavaScript, SQL Server
