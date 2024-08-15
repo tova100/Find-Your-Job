@@ -30,7 +30,8 @@ educational background, proficiency in specific technologies, and military servi
 After analyzing the CV data, the system presents personalized job listings that match the user's profile analysis.
 
 Furthermore, the project streamlines the process of searching for relevant job positions across different websites.
-Users no longer need to invest significant effort in searching for jobs that align with their CV analysis.
+Users no longer need to invest significant effort in searching for jobs that align w
+ith their CV analysis.
 Additionally, the system provides employers with the ability to post job openings on the platform and view profiles of candidates who have submitted their CVs for specific positions. 
 This allows employers to assess the percentage of suitability for each candidate.
 
@@ -41,3 +42,65 @@ The combination of client-side technologies such as React, server-side technolog
 * I developed a smart algorithm for text analysis.
 * Using Entity Framework.
 * Technologies:C#, React, JavaScript, SQL Server
+# Site screens
+**main page.**
+![image](https://github.com/user-attachments/assets/21a59cbd-06d1-4a1e-b856-ffe848d76faa)
+**Login - for a new employer/user - registration**
+![image](https://github.com/user-attachments/assets/43d57d88-e343-448e-a795-8dc8631004fb)
+![image](https://github.com/user-attachments/assets/04e400be-458d-4b66-ad04-c814abd9b726)
+
+![image](https://github.com/user-attachments/assets/97da8b6e-93cd-4e3c-9b54-10245cfb32ef)
+
+![image](https://github.com/user-attachments/assets/39da8c3e-3b6f-44f2-af6a-d91b2254d41e)
+
+![image](https://github.com/user-attachments/assets/25094ae2-5acd-4107-a881-07f846d6dd42)
+
+![image](https://github.com/user-attachments/assets/e6f2bec6-d55e-46ef-8aa5-656c689c8bea)
+
+![image](https://github.com/user-attachments/assets/d1e06588-0aff-405b-8bea-1c85ad210609)
+
+![image](https://github.com/user-attachments/assets/7220fac4-b975-4375-be6d-a845ad127907)
+
+![image](https://github.com/user-attachments/assets/78ea56fc-e7cc-4de8-969f-e0909d2fe3d2)
+
+![image](https://github.com/user-attachments/assets/34c330c8-b653-494d-97a8-077bbb634ec2)
+
+![image](https://github.com/user-attachments/assets/3115207a-ca23-4167-91a0-404cc8b0f156)
+
+![image](https://github.com/user-attachments/assets/2b31d4f3-5dcf-4267-ab8d-68366f9d2f2b)
+
+![image](https://github.com/user-attachments/assets/103d71d7-114a-4642-abc9-c2c8dac1d71f)
+
+![image](https://github.com/user-attachments/assets/375a5452-26b0-4456-8984-98540889b818)
+
+![image](https://github.com/user-attachments/assets/d85b6b86-75b2-4317-8e3d-873a494283a3)
+
+![image](https://github.com/user-attachments/assets/d44c738f-e35e-4b9c-b779-ad0c9fdd0754)
+
+![image](https://github.com/user-attachments/assets/91c4e86f-a554-4471-bd5f-31303f79ac60)
+
+![image](https://github.com/user-attachments/assets/4ecee465-832e-4c09-ba1d-b25a77db6f74)
+
+![image](https://github.com/user-attachments/assets/10438555-fec8-4b23-a5c5-3c27bb8b2bb0)
+
+![image](https://github.com/user-attachments/assets/16059a51-05d9-45c9-be55-fb3b9ef1f61d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
